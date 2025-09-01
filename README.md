@@ -1,6 +1,6 @@
 - Hi, I’m @FlyingBaum
-- I’m interested in video games, programming and playing the piano
-- I'm currently studying Media & Computer Science at university and work as student web developer at a company.
+- I’m interested in video games, coding and playing the piano
+- I'm currently studying Media & Computer Science at university and work as student developer at Mozilla.
 - 📫 How to reach me: Leave me an email at kristgsus@gmail.com
 
 <!---
